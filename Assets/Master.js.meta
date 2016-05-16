@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a8a9a093890b947489cccb6da073ae1e
+timeCreated: 1449034207
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - slotBoxTexture: {instanceID: 0}
+  - slot1Texture: {instanceID: 0}
+  - slot2Texture: {instanceID: 0}
+  - slot3Texture: {instanceID: 0}
+  - stMenTex: {fileID: 2800000, guid: dc278f99e37a89149b056a6f01a7828d, type: 3}
+  - startMenuBlock: {instanceID: 0}
+  - slot1Fab: {instanceID: 0}
+  - slot2Fab: {instanceID: 0}
+  - slot3Fab: {instanceID: 0}
+  - stMen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

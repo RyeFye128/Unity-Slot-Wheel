@@ -1,0 +1,66 @@
+Wheel 1
+
+18 - blank
+36 - cherry
+54 - lemon
+72 - diamond
+90 - blank
+108 - cherry
+126- lemon
+144 - bar
+162 - blank
+180 - cherry
+198 - 7
+216 - lemon
+234 - blank
+252 - cherry
+270 - bar
+288 - lemon
+306 - blank
+324 - cherry
+342 - 7
+360 - bar
+
+Wheel 2
+18 - lemon
+36 - cherry
+54 - 7
+72 - blank
+90 - lemon
+108 - cherry
+126 - bar
+144 - lemon
+162 - diamond
+180 - cherry
+198 - blank
+216 - blank
+234 - bar
+252 - cherry
+270 - blank
+288 - bar
+306 - 7
+324 - cherry
+342 - lemon
+360 - blank
+
+Wheel 3
+18- blank
+36 - cherry
+54 - lemon
+72 - diamond
+90 - blank
+108 - cherry
+126 - lemon
+144 - bar
+162 - blank
+180 - cherry
+198 - 7
+216- lemon
+234 - blank
+252 - cherry
+270 - bar
+288 - lemon
+306 - blank
+324 - cherry
+342 - 7
+360 - bar
